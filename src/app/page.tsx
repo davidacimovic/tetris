@@ -60,7 +60,7 @@ export default function Home() {
         </div>
       </main>
       <footer className="bg-gray-900 text-gray-500 text-center py-4 text-sm">
-        <p>Built with Next.js and TypeScript</p>
+        <p>Built by David Acimovic using Cline</p>
       </footer>
     </div>
   );
